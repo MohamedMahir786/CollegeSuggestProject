@@ -19,7 +19,7 @@ public class HomePage_Login extends BaseClass {
 		sleep(2000);
 		homePageObject.clickOnPhoneNumber();
 		sleep(2000);
-	//	homePageObject.clickOnLoginButton();
+		homePageObject.clickOnLoginButton();
 
 	}
 	private void sleep(int milliseconds) throws InterruptedException {

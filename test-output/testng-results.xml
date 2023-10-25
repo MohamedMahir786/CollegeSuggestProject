@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-25T11:22:11 IST" name="Default suite" finished-at="2023-10-25T11:22:52 IST" duration-ms="41138">
+  <suite started-at="2023-10-25T12:05:46 IST" name="Default suite" finished-at="2023-10-25T12:06:38 IST" duration-ms="52068">
     <groups>
     </groups>
-    <test started-at="2023-10-25T11:22:11 IST" name="Default test" finished-at="2023-10-25T11:22:52 IST" duration-ms="41138">
-      <class name="org.livecollegesuggest.ListingPage_SortBy">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:org.livecollegesuggest.ListingPage_SortBy@18df8434]" started-at="2023-10-25T11:22:11 IST" name="setUp" finished-at="2023-10-25T11:22:19 IST" duration-ms="7782" status="PASS">
+    <test started-at="2023-10-25T12:05:46 IST" name="Default test" finished-at="2023-10-25T12:06:38 IST" duration-ms="52068">
+      <class name="org.livecollegesuggest.HomePage_LoadMore">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.livecollegesuggest.HomePage_LoadMore@5677323c]" started-at="2023-10-25T12:05:46 IST" name="setUp" finished-at="2023-10-25T12:05:53 IST" duration-ms="6724" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:org.livecollegesuggest.ListingPage_SortBy@18df8434]" started-at="2023-10-25T11:22:19 IST" name="setup" finished-at="2023-10-25T11:22:29 IST" duration-ms="10250" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.livecollegesuggest.HomePage_LoadMore@5677323c]" started-at="2023-10-25T12:05:53 IST" name="setup" finished-at="2023-10-25T12:06:03 IST" duration-ms="10208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="cs__Verify_DropDown_Is_Clickable_0001()[pri:1, instance:org.livecollegesuggest.ListingPage_SortBy@18df8434]" started-at="2023-10-25T11:22:29 IST" name="cs__Verify_DropDown_Is_Clickable_0001" finished-at="2023-10-25T11:22:51 IST" duration-ms="22262" status="PASS">
+        <test-method signature="cs_verify_Load_More_Button_Is_Clickable_0001()[pri:1, instance:org.livecollegesuggest.HomePage_LoadMore@5677323c]" started-at="2023-10-25T12:06:03 IST" name="cs_verify_Load_More_Button_Is_Clickable_0001" finished-at="2023-10-25T12:06:38 IST" duration-ms="34414" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cs__Verify_DropDown_Is_Clickable_0001 -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:org.livecollegesuggest.ListingPage_SortBy@18df8434]" started-at="2023-10-25T11:22:51 IST" name="teardown" finished-at="2023-10-25T11:22:52 IST" duration-ms="753" status="PASS">
+        </test-method> <!-- cs_verify_Load_More_Button_Is_Clickable_0001 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.livecollegesuggest.HomePage_LoadMore@5677323c]" started-at="2023-10-25T12:06:38 IST" name="teardown" finished-at="2023-10-25T12:06:38 IST" duration-ms="665" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.livecollegesuggest.ListingPage_SortBy@18df8434]" started-at="2023-10-25T11:22:52 IST" name="tearDown" finished-at="2023-10-25T11:22:52 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.livecollegesuggest.HomePage_LoadMore@5677323c]" started-at="2023-10-25T12:06:38 IST" name="tearDown" finished-at="2023-10-25T12:06:38 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.livecollegesuggest.ListingPage_SortBy -->
+      </class> <!-- org.livecollegesuggest.HomePage_LoadMore -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

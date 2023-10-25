@@ -30,7 +30,7 @@ public class ListingPage_SortBy extends BaseClass {
 		Thread.sleep(milliseconds);
 
 	}
-	// checking whether the dropdown is clickable or not
+	// checking whether the dropdown of sortby is clickable or not
 
 	@Test(priority = 1)
 	public void cs__Verify_DropDown_Is_Clickable_0001() throws InterruptedException {

@@ -31,6 +31,8 @@ public class HomePage_LoadMore extends BaseClass {
 		Thread.sleep(milliseconds);
 
 	}
+	
+	//Check whether load more button is clickable or not
 
 	@Test(priority = 1)
 	public void cs_verify_Load_More_Button_Is_Clickable_0001() throws InterruptedException {
